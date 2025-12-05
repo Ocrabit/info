@@ -1,4 +1,7 @@
 ## List of Early Projects in my journey
+[Utility Projects](https://github.com/Ocrabit/UtilityProjects 'Utility Projects')
+<br> <i> A collection of short script utilities I create for various tasks. Includes an invert PDF script and an Apple workflow for Mac that adds a quick action called "Move to Selected Folder" in Finder. </i>
+
 [Pokemon Prediction Data Analysis](https://github.com/Ocrabit/Pokemon-Prediction-Data 'Pokemon Prediction Data Analysis')
 <br> <i> A data analysis project using principal component analysis to predict Pokémon legendary status, and logistic regression with ROC-based threshold to predict match outcomes. </i>
 
